@@ -1,0 +1,17 @@
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\bin\Debug\net6.0-windows\Aplikasi_Credit.exe
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\bin\Debug\net6.0-windows\Aplikasi_Credit.deps.json
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\bin\Debug\net6.0-windows\Aplikasi_Credit.runtimeconfig.json
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\bin\Debug\net6.0-windows\Aplikasi_Credit.dll
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\bin\Debug\net6.0-windows\Aplikasi_Credit.pdb
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.vbproj.AssemblyReference.cache
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.Form1.resources
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.vbproj.GenerateResource.cache
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.GeneratedMSBuildEditorConfig.editorconfig
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.AssemblyInfoInputs.cache
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.AssemblyInfo.vb
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.vbproj.CoreCompileInputs.cache
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.dll
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\refint\Aplikasi_Credit.dll
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.pdb
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\Aplikasi_Credit.genruntimeconfig.cache
+C:\P.DEKSTOP\Aplikasi_Credit\Aplikasi_Credit\obj\Debug\net6.0-windows\ref\Aplikasi_Credit.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Aplikasi_Credit", "Aplikasi_Credit\Aplikasi_Credit.vbproj", "{C0A745D3-1ED1-4DB2-B995-964AAADF8984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A745D3-1ED1-4DB2-B995-964AAADF8984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A745D3-1ED1-4DB2-B995-964AAADF8984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A745D3-1ED1-4DB2-B995-964AAADF8984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A745D3-1ED1-4DB2-B995-964AAADF8984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872F4E48-FA81-46C7-94F3-BAA13D85DC44}
+	EndGlobalSection
+EndGlobal
